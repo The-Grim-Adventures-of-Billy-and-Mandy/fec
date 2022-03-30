@@ -8,12 +8,18 @@ const App = () => {
   <div>Hello World!</div>
   <div></div>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <div>Goodbye World!</div>
 =======
   <div>Hello World!</div>
   <div></div>
   <div>Hello World!</div>
   <div></div>
+>>>>>>> main
+=======
+  <div>Goodbye World!</div>
+  <div></div>
+  <div>Poop World!</div>
 >>>>>>> main
   )
 }
